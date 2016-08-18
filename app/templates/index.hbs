@@ -1,8 +1,7 @@
 <h2>Welcome to Flying Designers</h2>
 
 {{#each model as |post|}}
-  {{post-tile post=post destroyPost="destroyPost"}}
-   <!--later destroyPost  -->
-  
+  {{post-tile post=post update="update" destroyPost="destroyPost"}}
+
   <hr>
 {{/each}}
