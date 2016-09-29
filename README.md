@@ -1,7 +1,6 @@
 # Ember-blog
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Flying Designers is a simple blog where user can post and upload the images.
 
 ## Prerequisites
 
